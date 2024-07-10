@@ -1,0 +1,16 @@
+
+CSS - 3
+    - inline : same styling we have to copy multiple places
+    - internal :
+        </body>
+        <style>
+        .paragraph{
+            border: "2px solid red"
+        }
+        </style>
+        
+    - external : 
+    style.css:
+        .paragraph{
+            border: "2px solid red"
+        }
